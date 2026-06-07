@@ -1,2 +1,1 @@
-# Link.medsos
-Agar ngelink lebih mudah
+jb rent.id
